@@ -25,7 +25,7 @@ To run this project run
 - Frontend
 
 ```bash
-  cd client/vite-react
+  cd client/vite-project
 ```
 ```bash
   npm install
