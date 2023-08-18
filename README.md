@@ -37,7 +37,7 @@ To run this project run
 
 ## Link to watch the demo
 
-![App Screenshot](https://i.ibb.co/0Xwc0zR/Screenshot-2023-08-17-141417.png)
+![App Screenshots](https://drive.google.com/file/d/1MTcnW8tJ5bcWi0TGA9Dq4S791Qym-aa9/view?usp=drivesdk)
 ## Screenshots
 ### get request
 ![App Screenshot](https://i.ibb.co/McVqDFv/Screenshot-2023-08-17-141437.png)
