@@ -14,24 +14,24 @@ To run this project run
 - Backend
 
 ```bash
-  cd backend
+  cd server
 ```
 ```bash
   npm install
 ```
 ```bash
-  nodemon app
+  nodemon server
 ```
 - Frontend
 
 ```bash
-  cd frontend 
+  cd client/vite-react
 ```
 ```bash
   npm install
 ```
 ```bash
-  npm start
+  npm run dev
 ```
 
 
